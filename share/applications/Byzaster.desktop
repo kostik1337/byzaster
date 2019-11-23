@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Byzaster
+Comment=Screen recording GUI
+Exec=byzaster
+Icon=byzaster
+Categories=Accessories;

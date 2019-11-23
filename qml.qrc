@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ViewFinder.qml</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>hourglass.svg</file>
+        <file>picture_in_picture.svg</file>
+        <file>more_horiz.svg</file>
+        <file>stop.svg</file>
+        <file>record.svg</file>
+        <file>file_copy.svg</file>
+        <file>icon.svg</file>
+    </qresource>
+</RCC>
