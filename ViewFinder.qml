@@ -17,8 +17,8 @@ Window {
     
     signal selected(rect frame)
     
-    onActiveChanged: {
-        if (active) 
+    onVisibleChanged: {
+        if (visible)
             region = Qt.rect(0, 0, Screen.width, Screen.height)
     }
     
